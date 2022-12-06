@@ -10,7 +10,12 @@
 <h3 align="center">A passionate frontend and future fullstack developer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on microverse projects<br><br>🌱 I’m currently learning full stack<br><br>👨‍💻 All of my projects are available at https://powerlevel9000.github.io/Personal-Portfolio/<br><br>💬 Ask me about video games<br><br>📫 How to reach me adi8090808766@gmail.com<br><br>⚡ Fun fact I have two eyes
+🔭 I’m currently working on microverse projects<br><br>
+🌱 I’m currently learning full stack<br><br>
+👨‍💻 All of my projects are available at <a hreaf="https://powerlevel9000.github.io/Personal-Portfolio/">Personal Portfolio</a><br><br>
+💬 Ask me about video games<br><br>
+📫 How to reach me adi8090808766@gmail.com<br><br>
+⚡ Fun fact I have two eyes
 
 
 ## 🌐 Socials:
