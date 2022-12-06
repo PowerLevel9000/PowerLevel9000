@@ -1,11 +1,7 @@
-<h3 align="center">
-  Hi There! I'm Adarsh
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24">
-</h3>
 
 <!-- Readme typing svg: https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&center=true&width=500&height=45&color=22C4F7&vCenter=true&size=22&pause=1000&lines=Hi+there!;I'm+Adarsh+Pathak;AKA+PowerLevel9000;Future+Full+Stack+Web+Developer;800%2B+Hours+of+code+this+year;I+love+programming+things+remotely" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&center=true&width=500&height=45&color=22C4F7&vCenter=true&size=26&pause=1000&lines=Hi+there!;I'm+Adarsh+Pathak;AKA+PowerLevel9000;Future+Full+Stack+Web+Developer;800%2B+Hours+of+code+this+year;I+love+programming+things+remotely" alt="Typing SVG" /></a>
 </p>
 
 
