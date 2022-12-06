@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/adarsh-pathak-56a831256/"> <img height="32" width="32" src="https://simpleicons.now.sh/linkedin/0A66C2" alt="Linkedin" title="LinkedIn Profile" /> </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""> <i class="fa-brands fa-instagram" style="height:32px width:32px"></i></a>
+  <a href=""> <i class="fa-brands fa-instagram" style="height:32px; width:32px; font-size:30px; color: red;"></i></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/PowerLevel9002?t=AIuSN7mTxk5a_MWpLolEjA&s=09"> <img height="32" width="32" src="https://simpleicons.now.sh/twitter/1DA1F2" alt="Twitter" title="Twitter Profile" /> </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
