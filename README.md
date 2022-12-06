@@ -5,7 +5,7 @@
 
 <!-- Readme typing svg: https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&center=true&width=500&height=45&color=22C4F7&vCenter=true&size=22&pause=1000&lines=Hi!+I+am+Adarsh+AKA;PowerLevel9000;Future+Full+Stack+Web+Developer;800%2B+Hours+of+code+this+year;I+love+programming+things+remotely" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&center=true&width=500&height=45&color=22C4F7&vCenter=true&size=22&pause=1000&lines=Hi+there!+![EmojiEmojiHelloGIF](https://user-images.githubusercontent.com/116451144/205840903-9704f7fd-40f9-410e-b060-7db1a80a2387.gif);I'm+Adarsh+Pathak;AKA+PowerLevel9000;Future+Full+Stack+Web+Developer;800%2B+Hours+of+code+this+year;I+love+programming+things+remotely" alt="Typing SVG" /></a>
 </p>
 
 
