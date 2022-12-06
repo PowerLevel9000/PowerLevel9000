@@ -21,11 +21,11 @@
 
 <br/>
 
-<!--
+
 <!-- Badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/antonkomarev/github-profile-views-counter -->
-<p align="center">
+<!--<p align="center">
   <a href="https://github.com/anagudelogu?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/anagudelogu?color=FDBF00&style=for-the-badge&labelColor=C79600&logo=star"/></a>
   <a href="https://github.com/anagudelogu?tab=followers">
@@ -92,6 +92,7 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
+<!--
 1. 👍 Approved [#1](https://github.com/Lancelot-SO/project_review/pull/1#pullrequestreview-1204826011) in [Lancelot-SO/project_review](https://github.com/Lancelot-SO/project_review)
 2. 🔴 Requested 1 change(s) for [#1](https://github.com/dennis-every/review-technical-documentation-page/pull/1#pullrequestreview-1204821623) in [dennis-every/review-technical-documentation-page](https://github.com/dennis-every/review-technical-documentation-page)
 3. 🔴 Requested 2 change(s) for [#1](https://github.com/HanaSabih/review_project/pull/1#pullrequestreview-1204800757) in [HanaSabih/review_project](https://github.com/HanaSabih/review_project)
@@ -100,13 +101,17 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+<!--
 Last Updated: Tuesday, December 6th, 2022, 1:02:03 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
 
 <!-- Activity graph: https://github.com/ashutosh00710/github-readme-activity-graph -->
-
+<!--
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anagudelogu&bg_color=1F222E&color=F8D866&line=1155ba&point=FFFFFF&hide_border=true" /></a>
 </div>  -->
+
+
+
