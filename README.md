@@ -1,7 +1,7 @@
 
 <!-- Readme typing svg: https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&center=true&width=500&height=45&color=22C4F7&vCenter=true&size=26&pause=1000&lines=Hi+there!;I'm+Adarsh+Pathak;AKA+PowerLevel9000;Future+Full+Stack+Web+Developer;800%2B+Hours+of+code+this+year;I+love+programming+things+remotely" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&center=true&width=800&height=45&color=22C4F7&vCenter=true&size=45&pause=1000&lines=Hi+there!;I'm+Adarsh+Pathak;AKA+PowerLevel9000;Future+FullStack+dev;800%2B+Hours+of+code+this+year;I+love+programming+remotely" alt="Typing SVG" /></a>
 </p>
 
 
@@ -12,9 +12,9 @@
 # 💫 About Me:
 🔭 I’m currently working on microverse projects<br><br>
 🌱 I’m currently learning full stack<br><br>
-👨‍💻 All of my projects are available at <a hreaf="https://powerlevel9000.github.io/Personal-Portfolio/">Personal Portfolio</a><br><br>
+👨‍💻 All of my projects are available at <a href="https://powerlevel9000.github.io/Personal-Portfolio/">Personal Portfolio</a><br><br>
 💬 Ask me about video games<br><br>
-📫 How to reach me adi8090808766@gmail.com<br><br>
+📫 How to reach me <a href="mailto:adi8090808766@gmail.com">mail me</a><br><br>
 ⚡ Fun fact I have two eyes
 
 
