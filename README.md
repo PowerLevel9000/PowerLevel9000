@@ -37,12 +37,18 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) 
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PowerLevel9000&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PowerLevel9000&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PowerLevel9000&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<br><br>
+<h1> 📊 GitHub Stats:</h1>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=PowerLevel9000&theme=dark&hide_border=false&include_all_commits=true&count_private=true">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PowerLevel9000&theme=dark&hide_border=false"><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PowerLevel9000&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+</div><hr>
+
+## ✍️ Random Dev Quote
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical">
+</div>
 
 
