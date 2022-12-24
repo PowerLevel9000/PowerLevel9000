@@ -4,10 +4,14 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&center=true&width=800&height=45&color=22C4F7&vCenter=true&size=45&pause=1000&lines=Hi+there!;I'm+Adarsh+Pathak;AKA+PowerLevel9000;Future+FullStack+dev;800%2B+Hours+of+code+this+year;I+love+programming+remotely" alt="Typing SVG" /></a>
 </p>
 
-
 <!-- Social media Icons -->
 <h1 align="center">Hi 👋, I'm Adarsh Pathak aka PowerLevel9000</h1>
 <h3 align="center">A passionate frontend and future fullstack developer from India</h3>
+
+<div align="center">
+  <img  src="https://user-images.githubusercontent.com/116451144/209419154-5f6f8451-c253-4421-aaf7-1395a8ecf151.gif">
+</div>
+
 
 # 💫 About Me:
 🔭 I’m currently working on microverse projects<br><br>
