@@ -12,6 +12,8 @@
   <img  src="https://user-images.githubusercontent.com/116451144/209419154-5f6f8451-c253-4421-aaf7-1395a8ecf151.gif">
 </div>
 
+[![](https://visitcount.itsvg.in/api?id=Ferizad&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 # 💫 About Me:
 🔭 I’m currently working on microverse projects<br><br>
@@ -55,5 +57,6 @@
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical">
 </div>
+
 
 
