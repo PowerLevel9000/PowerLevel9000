@@ -12,7 +12,8 @@
   <img  src="https://user-images.githubusercontent.com/116451144/209419154-5f6f8451-c253-4421-aaf7-1395a8ecf151.gif">
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=Ferizad&icon=0&color=0)](https://visitcount.itsvg.in)
+<h3> 👱 Visitors count </h3>
+<img src="https://profile-counter.glitch.me/PowerLevel9000/count.svg" />
 
 
 # 💫 About Me:
@@ -58,5 +59,9 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical">
 </div>
 
+## 🧑‍💻 Working Mood
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif">
+</div>
 
