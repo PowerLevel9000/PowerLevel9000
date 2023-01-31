@@ -1,12 +1,12 @@
 
 <!-- Readme typing svg: https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&center=true&width=800&height=45&color=22C4F7&vCenter=true&size=45&pause=1000&lines=Hi+there!;I'm+Adarsh+Pathak;AKA+PowerLevel9000;Future+FullStack+dev;800%2B+Hours+of+code+this+year;I+love+programming+remotely" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&center=true&width=800&height=45&color=22C4F7&vCenter=true&size=45&pause=1000&lines=Hi+there!;I'm+Adarsh+Pathak;AKA+PowerLevel9000;Passionate+Full-Stack+Developer;1000%2B+Hours+of+code+this+year;I+love+programming+remotely" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social media Icons -->
 <h1 align="center">Hi 👋, I'm Adarsh Pathak aka PowerLevel9000</h1>
-<h3 align="center">A passionate frontend and future fullstack developer from India</h3>
+<h3 align="center">A passionate Full-stack Developer from India</h3>
 
 <div align="center">
   <img  src="https://user-images.githubusercontent.com/116451144/209419154-5f6f8451-c253-4421-aaf7-1395a8ecf151.gif">
@@ -46,6 +46,14 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) 
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) 
+
+
+
+# ⚒️ Tool Stack:
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/github-%23111111.svg?style=flat&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/github-%23F24E1E.svg?style=flat&logo=git&logoColor=white)
 
 
 <br><br>
