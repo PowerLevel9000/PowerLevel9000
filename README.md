@@ -6,7 +6,7 @@
 
 <!-- Social media Icons -->
 <h1 align="center">Hi 👋, I'm Adarsh Pathak aka PowerLevel9000</h1>
-<h3 align="center">A passionate Full-stack Developer from India</h3>
+<h3 align="center">A passionate Full-Stack Developer from India</h3>
 
 <div align="center">
   <img  src="https://user-images.githubusercontent.com/116451144/209419154-5f6f8451-c253-4421-aaf7-1395a8ecf151.gif">
