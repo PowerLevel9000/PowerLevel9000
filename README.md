@@ -1,7 +1,7 @@
 
 <!-- Readme typing svg: https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&center=true&width=800&height=45&color=22C4F7&vCenter=true&size=45&pause=1000&lines=Hi+there!;I'm+Adarsh+Pathak;AKA+PowerLevel9000;Passionate+Full-Stack+Developer;1000%2B+Hours+of+code+this+year;I+love+programming+remotely" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&center=true&width=900&height=45&color=22C4F7&vCenter=true&size=45&pause=1000&lines=Hi+there!;I'm+Adarsh+Pathak;AKA+PowerLevel9000;Passionate+Full-Stack+Developer;1300%2B+Hours+of+code+last+year;I+love+programming+remotely" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social media Icons -->
