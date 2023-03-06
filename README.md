@@ -59,8 +59,7 @@
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) 
 <br><br>
 # ⚒️ Tool Stack:
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
-![Figma](https://img.shields.io/badge/GitHub-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23111111.svg?style=flat&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F24E1E.svg?style=flat&logo=git&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
