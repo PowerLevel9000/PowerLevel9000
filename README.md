@@ -74,6 +74,13 @@
 <img width="60%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=PowerLevel9000&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
 </div><hr>
 
+### GitHub Activity
+
+<!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
 
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=PowerLevel9000&bg_color=1F222E&color=F8D866&line=1155ba&point=FFFFFF&hide_border=true" /></a>

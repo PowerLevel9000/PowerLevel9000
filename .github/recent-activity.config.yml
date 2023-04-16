@@ -1,0 +1,8 @@
+settings:
+  #username: "Readme-Workflows" # Replace with your username or comment out this line
+  commit_msg: "Update README with the recent activity"
+  readme_file: "./README.md"
+  disabled_events:
+    - "comments"
+  date:
+    text: "Last Updated: {DATE} (GMT)"
