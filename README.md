@@ -88,7 +88,7 @@
 
 
 <div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=PowerLevel9000&bg_color=1F222E&color=F8D866&line=1155ba&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=PowerLevel9000&theme=react-dark" />
 </div>
 
 ## ✍️ Random Dev Quote
