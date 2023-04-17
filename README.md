@@ -79,11 +79,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#13](https://github.com/rivasbolinga/Afghan-Restaurant/pull/13#pullrequestreview-1387011485) in [rivasbolinga/Afghan-Restaurant](https://github.com/rivasbolinga/Afghan-Restaurant)
-2. 🔴 Requested 1 change(s) for [#13](https://github.com/rivasbolinga/Afghan-Restaurant/pull/13#pullrequestreview-1387001309) in [rivasbolinga/Afghan-Restaurant](https://github.com/rivasbolinga/Afghan-Restaurant)
-3. ⭐ Starred [rica213/ruby-startup-project-template](https://github.com/rica213/ruby-startup-project-template)
-4. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/dsa-presentation](https://github.com/PowerLevel9000/dsa-presentation)
-5. ⬆️ Pushed 3 commit(s) to [PowerLevel9000/dsa-presentation](https://github.com/PowerLevel9000/dsa-presentation)
+1. ⭐ Starred [rivasbolinga/Afghan-Restaurant](https://github.com/rivasbolinga/Afghan-Restaurant)
+2. ⬆️ Pushed 3 commit(s) to [rivasbolinga/Afghan-Restaurant](https://github.com/rivasbolinga/Afghan-Restaurant)
+3. ⬆️ Pushed 23 commit(s) to [rivasbolinga/Afghan-Restaurant](https://github.com/rivasbolinga/Afghan-Restaurant)
+4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/Afghan-Restaurant](https://github.com/rivasbolinga/Afghan-Restaurant)
+5. 👍 Approved [#13](https://github.com/rivasbolinga/Afghan-Restaurant/pull/13#pullrequestreview-1387011485) in [rivasbolinga/Afghan-Restaurant](https://github.com/rivasbolinga/Afghan-Restaurant)
 <!--RECENT_ACTIVITY:end-->
 
 
