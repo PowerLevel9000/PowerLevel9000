@@ -79,11 +79,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/LeaderboardWithApi](https://github.com/PowerLevel9000/LeaderboardWithApi)
-2. ⭐ Starred [rivasbolinga/Afghan-Restaurant](https://github.com/rivasbolinga/Afghan-Restaurant)
-3. ⬆️ Pushed 3 commit(s) to [rivasbolinga/Afghan-Restaurant](https://github.com/rivasbolinga/Afghan-Restaurant)
-4. ⬆️ Pushed 23 commit(s) to [rivasbolinga/Afghan-Restaurant](https://github.com/rivasbolinga/Afghan-Restaurant)
-5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/Afghan-Restaurant](https://github.com/rivasbolinga/Afghan-Restaurant)
+1. ⬆️ Pushed 5 commit(s) to [PowerLevel9000/School-library](https://github.com/PowerLevel9000/School-library)
+2. 🎉 Merged PR [#1](https://github.com/PowerLevel9000/School-library/pull/1) in [PowerLevel9000/School-library](https://github.com/PowerLevel9000/School-library)
+3. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/School-library](https://github.com/PowerLevel9000/School-library)
+4. 💪 Opened PR [#1](https://github.com/PowerLevel9000/School-library/pull/1) in [PowerLevel9000/School-library](https://github.com/PowerLevel9000/School-library)
+5. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/School-library](https://github.com/PowerLevel9000/School-library)
 <!--RECENT_ACTIVITY:end-->
 
 
