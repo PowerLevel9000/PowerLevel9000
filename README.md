@@ -80,10 +80,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/School-library](https://github.com/PowerLevel9000/School-library)
-2. ❗️ Opened issue [#18](https://github.com/rivasbolinga/Afghan-Restaurant/issues/18) in [rivasbolinga/Afghan-Restaurant](https://github.com/rivasbolinga/Afghan-Restaurant)
-3. ❗️ Opened issue [#17](https://github.com/rivasbolinga/Afghan-Restaurant/issues/17) in [rivasbolinga/Afghan-Restaurant](https://github.com/rivasbolinga/Afghan-Restaurant)
-4. ❗️ Opened issue [#33](https://github.com/rivasbolinga/massage-caroline/issues/33) in [rivasbolinga/massage-caroline](https://github.com/rivasbolinga/massage-caroline)
-5. 👍 Approved [#32](https://github.com/rivasbolinga/massage-caroline/pull/32#pullrequestreview-1396469237) in [rivasbolinga/massage-caroline](https://github.com/rivasbolinga/massage-caroline)
+2. ⬆️ Pushed 8 commit(s) to [PowerLevel9000/School-library](https://github.com/PowerLevel9000/School-library)
+3. 🎉 Merged PR [#5](https://github.com/PowerLevel9000/School-library/pull/5) in [PowerLevel9000/School-library](https://github.com/PowerLevel9000/School-library)
+4. 💪 Opened PR [#5](https://github.com/PowerLevel9000/School-library/pull/5) in [PowerLevel9000/School-library](https://github.com/PowerLevel9000/School-library)
+5. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/School-library](https://github.com/PowerLevel9000/School-library)
 <!--RECENT_ACTIVITY:end-->
 
 
