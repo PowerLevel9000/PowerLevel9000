@@ -79,11 +79,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#2](https://github.com/PowerLevel9000/ruby-getting-started/pull/2) in [PowerLevel9000/ruby-getting-started](https://github.com/PowerLevel9000/ruby-getting-started)
-2. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/ruby-getting-started](https://github.com/PowerLevel9000/ruby-getting-started)
-3. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/ruby-getting-started](https://github.com/PowerLevel9000/ruby-getting-started)
+1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/School-library](https://github.com/PowerLevel9000/School-library)
+2. ⬆️ Pushed 8 commit(s) to [PowerLevel9000/ruby-getting-started](https://github.com/PowerLevel9000/ruby-getting-started)
+3. 🎉 Merged PR [#2](https://github.com/PowerLevel9000/ruby-getting-started/pull/2) in [PowerLevel9000/ruby-getting-started](https://github.com/PowerLevel9000/ruby-getting-started)
 4. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/ruby-getting-started](https://github.com/PowerLevel9000/ruby-getting-started)
-5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/massage-caroline](https://github.com/rivasbolinga/massage-caroline)
+5. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/ruby-getting-started](https://github.com/PowerLevel9000/ruby-getting-started)
 <!--RECENT_ACTIVITY:end-->
 
 
