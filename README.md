@@ -79,10 +79,10 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 10 commit(s) to [PowerLevel9000/School-library](https://github.com/PowerLevel9000/School-library)
-2. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/ruby-getting-started](https://github.com/PowerLevel9000/ruby-getting-started)
-3. 🎉 Merged PR [#7](https://github.com/PowerLevel9000/School-library/pull/7) in [PowerLevel9000/School-library](https://github.com/PowerLevel9000/School-library)
-4. ⬆️ Pushed 10 commit(s) to [PowerLevel9000/School-library](https://github.com/PowerLevel9000/School-library)
+1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/School-library](https://github.com/PowerLevel9000/School-library)
+2. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/School-library](https://github.com/PowerLevel9000/School-library)
+3. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/School-library](https://github.com/PowerLevel9000/School-library)
+4. 💪 Opened PR [#8](https://github.com/PowerLevel9000/School-library/pull/8) in [PowerLevel9000/School-library](https://github.com/PowerLevel9000/School-library)
 5. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/School-library](https://github.com/PowerLevel9000/School-library)
 <!--RECENT_ACTIVITY:end-->
 
