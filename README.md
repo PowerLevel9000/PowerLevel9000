@@ -79,11 +79,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/PowerLevel9000](https://github.com/PowerLevel9000/PowerLevel9000)
-2. ⭐ Starred [otmanTR/TDD-project](https://github.com/otmanTR/TDD-project)
-3. ⬆️ Pushed 1 commit(s) to [otmanTR/TDD-project](https://github.com/otmanTR/TDD-project)
-4. ⬆️ Pushed 1 commit(s) to [otmanTR/TDD-project](https://github.com/otmanTR/TDD-project)
-5. ⬆️ Pushed 1 commit(s) to [otmanTR/TDD-project](https://github.com/otmanTR/TDD-project)
+1. ⬆️ Pushed 1 commit(s) to [rivasbolinga/massage-caroline](https://github.com/rivasbolinga/massage-caroline)
+2. ❗️ Opened issue [#46](https://github.com/rivasbolinga/massage-caroline/issues/46) in [rivasbolinga/massage-caroline](https://github.com/rivasbolinga/massage-caroline)
+3. ⬆️ Pushed 1 commit(s) to [rivasbolinga/massage-caroline](https://github.com/rivasbolinga/massage-caroline)
+4. ⬆️ Pushed 1 commit(s) to [rivasbolinga/massage-caroline](https://github.com/rivasbolinga/massage-caroline)
+5. 💪 Opened PR [#45](https://github.com/rivasbolinga/massage-caroline/pull/45) in [rivasbolinga/massage-caroline](https://github.com/rivasbolinga/massage-caroline)
 <!--RECENT_ACTIVITY:end-->
 
 
