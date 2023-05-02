@@ -79,11 +79,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [PowerLevel9000/vet-clinic](https://github.com/PowerLevel9000/vet-clinic)
-2. ⭐ Starred [PowerLevel9000/ruby-getting-started](https://github.com/PowerLevel9000/ruby-getting-started)
-3. ⭐ Starred [PowerLevel9000/School-library](https://github.com/PowerLevel9000/School-library)
-4. ⭐ Starred [PowerLevel9000/Catalog](https://github.com/PowerLevel9000/Catalog)
-5. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Catalog](https://github.com/PowerLevel9000/Catalog)
+1. ✔️ Closed issue [#4](https://github.com/PowerLevel9000/Catalog/issues/4) in [PowerLevel9000/Catalog](https://github.com/PowerLevel9000/Catalog)
+2. ⬆️ Pushed 7 commit(s) to [PowerLevel9000/Catalog](https://github.com/PowerLevel9000/Catalog)
+3. 🎉 Merged PR [#15](https://github.com/PowerLevel9000/Catalog/pull/15) in [PowerLevel9000/Catalog](https://github.com/PowerLevel9000/Catalog)
+4. ❌ Closed PR [#16](https://github.com/PowerLevel9000/Catalog/pull/16) in [PowerLevel9000/Catalog](https://github.com/PowerLevel9000/Catalog)
+5. ❗️ Opened issue [#20](https://github.com/PowerLevel9000/Catalog/issues/20) in [PowerLevel9000/Catalog](https://github.com/PowerLevel9000/Catalog)
 <!--RECENT_ACTIVITY:end-->
 
 
