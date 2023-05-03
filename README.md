@@ -80,10 +80,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Catalog](https://github.com/PowerLevel9000/Catalog)
-2. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Catalog](https://github.com/PowerLevel9000/Catalog)
-3. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Catalog](https://github.com/PowerLevel9000/Catalog)
+2. 💪 Opened PR [#23](https://github.com/PowerLevel9000/Catalog/pull/23) in [PowerLevel9000/Catalog](https://github.com/PowerLevel9000/Catalog)
+3. 🔴 Requested 1 change(s) for [#22](https://github.com/PowerLevel9000/Catalog/pull/22#pullrequestreview-1410503803) in [PowerLevel9000/Catalog](https://github.com/PowerLevel9000/Catalog)
 4. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Catalog](https://github.com/PowerLevel9000/Catalog)
-5. ✔️ Closed issue [#31](https://github.com/rivasbolinga/massage-caroline/issues/31) in [rivasbolinga/massage-caroline](https://github.com/rivasbolinga/massage-caroline)
+5. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Catalog](https://github.com/PowerLevel9000/Catalog)
 <!--RECENT_ACTIVITY:end-->
 
 
