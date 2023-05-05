@@ -79,11 +79,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Catalog](https://github.com/PowerLevel9000/Catalog)
-2. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Catalog](https://github.com/PowerLevel9000/Catalog)
-3. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Catalog](https://github.com/PowerLevel9000/Catalog)
-4. 👍 Approved [#24](https://github.com/PowerLevel9000/Catalog/pull/24#pullrequestreview-1413143957) in [PowerLevel9000/Catalog](https://github.com/PowerLevel9000/Catalog)
-5. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Catalog](https://github.com/PowerLevel9000/Catalog)
+1. ✔️ Closed issue [#18](https://github.com/PowerLevel9000/Catalog/issues/18) in [PowerLevel9000/Catalog](https://github.com/PowerLevel9000/Catalog)
+2. ✔️ Closed issue [#12](https://github.com/PowerLevel9000/Catalog/issues/12) in [PowerLevel9000/Catalog](https://github.com/PowerLevel9000/Catalog)
+3. ✔️ Closed issue [#6](https://github.com/PowerLevel9000/Catalog/issues/6) in [PowerLevel9000/Catalog](https://github.com/PowerLevel9000/Catalog)
+4. ✔️ Closed issue [#3](https://github.com/PowerLevel9000/Catalog/issues/3) in [PowerLevel9000/Catalog](https://github.com/PowerLevel9000/Catalog)
+5. ✔️ Closed issue [#17](https://github.com/PowerLevel9000/Catalog/issues/17) in [PowerLevel9000/Catalog](https://github.com/PowerLevel9000/Catalog)
 <!--RECENT_ACTIVITY:end-->
 
 
