@@ -79,11 +79,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ritikarawat220/Vet_clinic](https://github.com/ritikarawat220/Vet_clinic)
-2. ⭐ Starred [PowerLevel9000/Catalog-2](https://github.com/PowerLevel9000/Catalog-2)
-3. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Catalog-2](https://github.com/PowerLevel9000/Catalog-2)
+1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/PowerLevel9000](https://github.com/PowerLevel9000/PowerLevel9000)
+2. ⭐ Starred [ritikarawat220/Vet_clinic](https://github.com/ritikarawat220/Vet_clinic)
+3. ⭐ Starred [PowerLevel9000/Catalog-2](https://github.com/PowerLevel9000/Catalog-2)
 4. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Catalog-2](https://github.com/PowerLevel9000/Catalog-2)
-5. ⬆️ Pushed 1 commit(s) to [rivasbolinga/massage-caroline](https://github.com/rivasbolinga/massage-caroline)
+5. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Catalog-2](https://github.com/PowerLevel9000/Catalog-2)
 <!--RECENT_ACTIVITY:end-->
 
 
