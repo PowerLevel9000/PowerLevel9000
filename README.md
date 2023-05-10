@@ -69,9 +69,9 @@
 <br><br>
 <h1> 📊 GitHub Stats:</h1>
 <div align="center">
-<img width="60%" src="https://github-readme-stats.vercel.app/api?username=PowerLevel9000&theme=dark&hide_border=false&include_all_commits=true&count_private=true"><br>
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=PowerLevel9000&theme=dark&hide_border=false"><br>
-<img width="60%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=PowerLevel9000&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+<img width="60%" src="https://github-readme-stats.vercel.app/api?username=PowerLevel9000&theme=react&hide_border=false&include_all_commits=true&count_private=true"><br>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=PowerLevel9000&theme=react&hide_border=false"><br>
+<img width="60%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=PowerLevel9000&theme=react&hide_border=false&include_all_commits=true&count_private=true">
 </div><hr>
 
 ### GitHub Activity
