@@ -85,11 +85,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 5 commit(s) to [PowerLevel9000/stock-market](https://github.com/PowerLevel9000/stock-market)
-2. 🎉 Merged PR [#11](https://github.com/PowerLevel9000/stock-market/pull/11) in [PowerLevel9000/stock-market](https://github.com/PowerLevel9000/stock-market)
-3. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/stock-market](https://github.com/PowerLevel9000/stock-market)
-4. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/stock-market](https://github.com/PowerLevel9000/stock-market)
-5. 💪 Opened PR [#11](https://github.com/PowerLevel9000/stock-market/pull/11) in [PowerLevel9000/stock-market](https://github.com/PowerLevel9000/stock-market)
+1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/PowerLevel9000](https://github.com/PowerLevel9000/PowerLevel9000)
+2. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/PowerLevel9000](https://github.com/PowerLevel9000/PowerLevel9000)
+3. ⬆️ Pushed 5 commit(s) to [PowerLevel9000/stock-market](https://github.com/PowerLevel9000/stock-market)
+4. 🎉 Merged PR [#11](https://github.com/PowerLevel9000/stock-market/pull/11) in [PowerLevel9000/stock-market](https://github.com/PowerLevel9000/stock-market)
+5. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/stock-market](https://github.com/PowerLevel9000/stock-market)
 <!--RECENT_ACTIVITY:end-->
 
 
