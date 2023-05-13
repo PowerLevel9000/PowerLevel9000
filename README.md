@@ -85,11 +85,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/PowerLevel9000](https://github.com/PowerLevel9000/PowerLevel9000)
-2. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/PowerLevel9000](https://github.com/PowerLevel9000/PowerLevel9000)
-3. ⬆️ Pushed 5 commit(s) to [PowerLevel9000/stock-market](https://github.com/PowerLevel9000/stock-market)
-4. 🎉 Merged PR [#11](https://github.com/PowerLevel9000/stock-market/pull/11) in [PowerLevel9000/stock-market](https://github.com/PowerLevel9000/stock-market)
-5. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/stock-market](https://github.com/PowerLevel9000/stock-market)
+1. 👍 Approved [#1](https://github.com/Krishnabot/Portfolio-React/pull/1#pullrequestreview-1425428406) in [Krishnabot/Portfolio-React](https://github.com/Krishnabot/Portfolio-React)
+2. ⭐ Starred [Krishnabot/Portfolio-React](https://github.com/Krishnabot/Portfolio-React)
+3. 🔴 Requested 2 change(s) for [#1](https://github.com/Krishnabot/Portfolio-React/pull/1#pullrequestreview-1425411225) in [Krishnabot/Portfolio-React](https://github.com/Krishnabot/Portfolio-React)
+4. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/PowerLevel9000](https://github.com/PowerLevel9000/PowerLevel9000)
+5. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/PowerLevel9000](https://github.com/PowerLevel9000/PowerLevel9000)
 <!--RECENT_ACTIVITY:end-->
 
 
