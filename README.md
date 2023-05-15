@@ -85,11 +85,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
-2. 🎉 Merged PR [#2](https://github.com/PowerLevel9000/Hello-Rails-App/pull/2) in [PowerLevel9000/Hello-Rails-App](https://github.com/PowerLevel9000/Hello-Rails-App)
-3. ⬆️ Pushed 3 commit(s) to [PowerLevel9000/Hello-Rails-App](https://github.com/PowerLevel9000/Hello-Rails-App)
-4. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Hello-Rails-App](https://github.com/PowerLevel9000/Hello-Rails-App)
-5. 💪 Opened PR [#2](https://github.com/PowerLevel9000/Hello-Rails-App/pull/2) in [PowerLevel9000/Hello-Rails-App](https://github.com/PowerLevel9000/Hello-Rails-App)
+1. 🎉 Merged PR [#1](https://github.com/PowerLevel9000/Blog/pull/1) in [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
+2. ⬆️ Pushed 6 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
+3. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
+4. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
+5. 💪 Opened PR [#1](https://github.com/PowerLevel9000/Blog/pull/1) in [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
 <!--RECENT_ACTIVITY:end-->
 
 
