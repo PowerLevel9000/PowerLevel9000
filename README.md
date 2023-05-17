@@ -86,10 +86,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
-2. ⬆️ Pushed 6 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
-3. 🎉 Merged PR [#2](https://github.com/PowerLevel9000/Blog/pull/2) in [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
-4. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
-5. 💪 Opened PR [#2](https://github.com/PowerLevel9000/Blog/pull/2) in [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
+2. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
+3. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
+4. ⬆️ Pushed 6 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
+5. 🎉 Merged PR [#2](https://github.com/PowerLevel9000/Blog/pull/2) in [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
 <!--RECENT_ACTIVITY:end-->
 
 
