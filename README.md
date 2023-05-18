@@ -85,10 +85,10 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
-2. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
-3. ⬆️ Pushed 7 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
-4. 🎉 Merged PR [#3](https://github.com/PowerLevel9000/Blog/pull/3) in [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
+1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/stock-market](https://github.com/PowerLevel9000/stock-market)
+2. ⬆️ Pushed 8 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
+3. 🎉 Merged PR [#4](https://github.com/PowerLevel9000/Blog/pull/4) in [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
+4. 💪 Opened PR [#4](https://github.com/PowerLevel9000/Blog/pull/4) in [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
 5. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
 <!--RECENT_ACTIVITY:end-->
 
