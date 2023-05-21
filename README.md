@@ -85,11 +85,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 5 commit(s) to [PowerLevel9000/Dynamic-Event-Template](https://github.com/PowerLevel9000/Dynamic-Event-Template)
-2. 🎉 Merged PR [#7](https://github.com/PowerLevel9000/Dynamic-Event-Template/pull/7) in [PowerLevel9000/Dynamic-Event-Template](https://github.com/PowerLevel9000/Dynamic-Event-Template)
-3. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Dynamic-Event-Template](https://github.com/PowerLevel9000/Dynamic-Event-Template)
-4. 💪 Opened PR [#7](https://github.com/PowerLevel9000/Dynamic-Event-Template/pull/7) in [PowerLevel9000/Dynamic-Event-Template](https://github.com/PowerLevel9000/Dynamic-Event-Template)
-5. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Dynamic-Event-Template](https://github.com/PowerLevel9000/Dynamic-Event-Template)
+1. ⬆️ Pushed 3 commit(s) to [PowerLevel9000/portfolio-project](https://github.com/PowerLevel9000/portfolio-project)
+2. ⬆️ Pushed 3 commit(s) to [PowerLevel9000/portfolio-project](https://github.com/PowerLevel9000/portfolio-project)
+3. 🎉 Merged PR [#22](https://github.com/PowerLevel9000/portfolio-project/pull/22) in [PowerLevel9000/portfolio-project](https://github.com/PowerLevel9000/portfolio-project)
+4. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/portfolio-project](https://github.com/PowerLevel9000/portfolio-project)
+5. 💪 Opened PR [#22](https://github.com/PowerLevel9000/portfolio-project/pull/22) in [PowerLevel9000/portfolio-project](https://github.com/PowerLevel9000/portfolio-project)
 <!--RECENT_ACTIVITY:end-->
 
 
