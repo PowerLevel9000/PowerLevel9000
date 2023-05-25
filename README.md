@@ -2,7 +2,7 @@
   <img src="./assets/border-separator.gif" width="100%">
   <div align="center">
   <img src="./assets/animated-flame-1.gif" align="left" width="20px">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&center=true&width=900&height=45&color=22C4F7&vCenter=true&size=45&pause=1000&lines=Hi+there!;I'm+Adarsh+Pathak;AKA+PowerLevel9000;Passionate+Full-Stack+Developer;1000%2B+Hours+of+code+this+year;I+love+programming+remotely" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img alt='' src="https://readme-typing-svg.demolab.com?font=Fira%20Code&center=true&width=900&height=45&color=22C4F7&vCenter=true&size=45&pause=1000&lines=Hi+there!;I'm+Adarsh+Pathak;AKA+PowerLevel9000;Passionate+Full-Stack+Developer;1000%2B+Hours+of+code+this+year;I+love+programming+remotely"  /></a>
   <img src="./assets/animated-flame-1.gif" align="right" width="20px">
   </div>
   <img src="./assets/border-separator.gif" width="100%">
@@ -75,9 +75,9 @@
 <br><br>
 <h1> 📊 GitHub Stats:</h1>
 <div align="center">
-<img width="60%" src="https://github-readme-stats.vercel.app/api?username=PowerLevel9000&theme=react&hide_border=false&include_all_commits=true&count_private=true"><br>
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=PowerLevel9000&theme=react&hide_border=false"><br>
-<img width="60%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=PowerLevel9000&theme=react&hide_border=false&include_all_commits=true&count_private=true">
+<img alt='' width="60%" src="https://github-readme-stats.vercel.app/api?username=PowerLevel9000&theme=react&hide_border=false&include_all_commits=true&count_private=true"><br>
+<img alt='' width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=PowerLevel9000&theme=react&hide_border=false"><br>
+<img alt='' width="60%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=PowerLevel9000&theme=react&hide_border=false&include_all_commits=true&count_private=true">
 </div><hr>
 
 ### GitHub Activity
@@ -95,7 +95,7 @@
 
 <div align="center">
   <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"> -->
-  <img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=PowerLevel9000&theme=react-dark" />
+  <img alt='' src="https://github-readme-activity-graph.cyclic.app/graph?username=PowerLevel9000&theme=react" />
 </div>
 
 ## ✍️ Random Dev Quote
@@ -113,7 +113,7 @@
   <img src="./assets/border-separator.gif" width="100%">
   <div align="center">
   <img src="./assets/animated-flame-1.gif" align="left" width="20px">
-  <a href="mailto:adi8090808766@gmail.com"><img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&center=true&width=900&height=45&color=22C4F7&vCenter=true&size=45&pause=1000&lines=Reach+Out!+To+Me;With+LinkedIn+And+Mail" alt="Typing SVG" /></a>
+  <a href="mailto:adi8090808766@gmail.com"><img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&center=true&width=900&height=45&color=22C4F7&vCenter=true&size=45&pause=1000&lines=Reach+Out!+To+Me;With+LinkedIn+And+Mail" alt="" /></a>
   <img src="./assets/animated-flame-1.gif" align="right" width="20px">
   </div>
   <img src="./assets/border-separator.gif" width="100%">
