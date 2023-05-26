@@ -88,8 +88,8 @@
 1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
 2. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
 3. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
-4. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/PowerLevel9000](https://github.com/PowerLevel9000/PowerLevel9000)
-5. ⬆️ Pushed 9 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
+4. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
+5. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
 <!--RECENT_ACTIVITY:end-->
 
 
