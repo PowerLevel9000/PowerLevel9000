@@ -85,11 +85,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [PowerLevel9000/Awesome-Books](https://github.com/PowerLevel9000/Awesome-Books)
-2. 🎉 Merged PR [#6](https://github.com/PowerLevel9000/Awesome-Books/pull/6) in [PowerLevel9000/Awesome-Books](https://github.com/PowerLevel9000/Awesome-Books)
-3. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Awesome-Books](https://github.com/PowerLevel9000/Awesome-Books)
-4. 💪 Opened PR [#6](https://github.com/PowerLevel9000/Awesome-Books/pull/6) in [PowerLevel9000/Awesome-Books](https://github.com/PowerLevel9000/Awesome-Books)
-5. ⬆️ Pushed 11 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
+1. ⬆️ Pushed 4 commit(s) to [PowerLevel9000/book-store](https://github.com/PowerLevel9000/book-store)
+2. 🎉 Merged PR [#7](https://github.com/PowerLevel9000/book-store/pull/7) in [PowerLevel9000/book-store](https://github.com/PowerLevel9000/book-store)
+3. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/book-store](https://github.com/PowerLevel9000/book-store)
+4. 💪 Opened PR [#7](https://github.com/PowerLevel9000/book-store/pull/7) in [PowerLevel9000/book-store](https://github.com/PowerLevel9000/book-store)
+5. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/book-store](https://github.com/PowerLevel9000/book-store)
 <!--RECENT_ACTIVITY:end-->
 
 
