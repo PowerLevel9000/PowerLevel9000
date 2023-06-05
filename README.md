@@ -85,11 +85,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/PowerLevel9000](https://github.com/PowerLevel9000/PowerLevel9000)
-2. ⭐ Starred [Ibtisam34/myportofolio](https://github.com/Ibtisam34/myportofolio)
-3. ⭐ Starred [Ibtisam34/math-magician](https://github.com/Ibtisam34/math-magician)
-4. ⭐ Starred [Ibtisam34/Final-group-capstone](https://github.com/Ibtisam34/Final-group-capstone)
-5. ⭐ Starred [Ibtisam34/Bookstore](https://github.com/Ibtisam34/Bookstore)
+1. ⬆️ Pushed 3 commit(s) to [PowerLevel9000/Dynamic-Event-Template](https://github.com/PowerLevel9000/Dynamic-Event-Template)
+2. 🎉 Merged PR [#8](https://github.com/PowerLevel9000/Dynamic-Event-Template/pull/8) in [PowerLevel9000/Dynamic-Event-Template](https://github.com/PowerLevel9000/Dynamic-Event-Template)
+3. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Dynamic-Event-Template](https://github.com/PowerLevel9000/Dynamic-Event-Template)
+4. 💪 Opened PR [#8](https://github.com/PowerLevel9000/Dynamic-Event-Template/pull/8) in [PowerLevel9000/Dynamic-Event-Template](https://github.com/PowerLevel9000/Dynamic-Event-Template)
+5. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/PowerLevel9000](https://github.com/PowerLevel9000/PowerLevel9000)
 <!--RECENT_ACTIVITY:end-->
 
 
