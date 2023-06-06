@@ -85,11 +85,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [PowerLevel9000/Dynamic-Event-Template](https://github.com/PowerLevel9000/Dynamic-Event-Template)
-2. 🎉 Merged PR [#8](https://github.com/PowerLevel9000/Dynamic-Event-Template/pull/8) in [PowerLevel9000/Dynamic-Event-Template](https://github.com/PowerLevel9000/Dynamic-Event-Template)
-3. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Dynamic-Event-Template](https://github.com/PowerLevel9000/Dynamic-Event-Template)
-4. 💪 Opened PR [#8](https://github.com/PowerLevel9000/Dynamic-Event-Template/pull/8) in [PowerLevel9000/Dynamic-Event-Template](https://github.com/PowerLevel9000/Dynamic-Event-Template)
-5. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/PowerLevel9000](https://github.com/PowerLevel9000/PowerLevel9000)
+1. ⬆️ Pushed 3 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
+2. 🎉 Merged PR [#9](https://github.com/PowerLevel9000/Blog/pull/9) in [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
+3. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
+4. 💪 Opened PR [#9](https://github.com/PowerLevel9000/Blog/pull/9) in [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
+5. ⬆️ Pushed 3 commit(s) to [PowerLevel9000/Dynamic-Event-Template](https://github.com/PowerLevel9000/Dynamic-Event-Template)
 <!--RECENT_ACTIVITY:end-->
 
 
