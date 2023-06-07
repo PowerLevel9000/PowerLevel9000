@@ -94,7 +94,6 @@
 
 
 <div align="center">
-  <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"> -->
   <img alt='' src="https://github-readme-activity-graph.cyclic.app/graph?username=PowerLevel9000&theme=react" />
 </div>
 
