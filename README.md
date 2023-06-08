@@ -85,11 +85,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
-2. 🎉 Merged PR [#9](https://github.com/PowerLevel9000/Blog/pull/9) in [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
-3. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
-4. 💪 Opened PR [#9](https://github.com/PowerLevel9000/Blog/pull/9) in [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
-5. ⬆️ Pushed 3 commit(s) to [PowerLevel9000/Dynamic-Event-Template](https://github.com/PowerLevel9000/Dynamic-Event-Template)
+1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/PowerLevel9000](https://github.com/PowerLevel9000/PowerLevel9000)
+2. ⬆️ Pushed 3 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
+3. 🎉 Merged PR [#9](https://github.com/PowerLevel9000/Blog/pull/9) in [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
+4. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
+5. 💪 Opened PR [#9](https://github.com/PowerLevel9000/Blog/pull/9) in [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
 <!--RECENT_ACTIVITY:end-->
 
 
