@@ -85,11 +85,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [PowerLevel9000/to-do-review](https://github.com/PowerLevel9000/to-do-review)
-2. 🎉 Merged PR [#3](https://github.com/PowerLevel9000/to-do-review/pull/3) in [PowerLevel9000/to-do-review](https://github.com/PowerLevel9000/to-do-review)
-3. 💪 Opened PR [#3](https://github.com/PowerLevel9000/to-do-review/pull/3) in [PowerLevel9000/to-do-review](https://github.com/PowerLevel9000/to-do-review)
-4. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/PowerLevel9000](https://github.com/PowerLevel9000/PowerLevel9000)
-5. ⬆️ Pushed 3 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
+1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/PowerLevel9000](https://github.com/PowerLevel9000/PowerLevel9000)
+2. ⬆️ Pushed 2 commit(s) to [PowerLevel9000/to-do-review](https://github.com/PowerLevel9000/to-do-review)
+3. 🎉 Merged PR [#3](https://github.com/PowerLevel9000/to-do-review/pull/3) in [PowerLevel9000/to-do-review](https://github.com/PowerLevel9000/to-do-review)
+4. 💪 Opened PR [#3](https://github.com/PowerLevel9000/to-do-review/pull/3) in [PowerLevel9000/to-do-review](https://github.com/PowerLevel9000/to-do-review)
+5. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/PowerLevel9000](https://github.com/PowerLevel9000/PowerLevel9000)
 <!--RECENT_ACTIVITY:end-->
 
 
