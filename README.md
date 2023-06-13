@@ -85,11 +85,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/PowerLevel9000](https://github.com/PowerLevel9000/PowerLevel9000)
-2. ⬆️ Pushed 2 commit(s) to [PowerLevel9000/to-do-review](https://github.com/PowerLevel9000/to-do-review)
-3. 🎉 Merged PR [#3](https://github.com/PowerLevel9000/to-do-review/pull/3) in [PowerLevel9000/to-do-review](https://github.com/PowerLevel9000/to-do-review)
-4. 💪 Opened PR [#3](https://github.com/PowerLevel9000/to-do-review/pull/3) in [PowerLevel9000/to-do-review](https://github.com/PowerLevel9000/to-do-review)
-5. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/PowerLevel9000](https://github.com/PowerLevel9000/PowerLevel9000)
+1. ⭐ Starred [shaaibu7/Budget-app](https://github.com/shaaibu7/Budget-app)
+2. ⭐ Starred [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+3. ⭐ Starred [LeslieAine/budget-app](https://github.com/LeslieAine/budget-app)
+4. ⭐ Starred [ShaliniNayan/Redux-basics](https://github.com/ShaliniNayan/Redux-basics)
+5. ⭐ Starred [otmaneechchafyky/Redux-tuto](https://github.com/otmaneechchafyky/Redux-tuto)
 <!--RECENT_ACTIVITY:end-->
 
 
