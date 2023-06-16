@@ -12,8 +12,15 @@
 <h1 align="center">Hi 👋, I'm Adarsh Pathak aka PowerLevel9000</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 
-<div align="center">
-  <img  src="https://user-images.githubusercontent.com/116451144/209419154-5f6f8451-c253-4421-aaf7-1395a8ecf151.gif">
+
+
+
+<div align="center" >
+  <h2> 💰 You can help me by Donating </h2>
+  
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/adi8090808E) 
+  
+  <img  src="https://user-images.githubusercontent.com/116451144/209419154-5f6f8451-c253-4421-aaf7-1395a8ecf151.gif" width="100%" >
 </div>
 
 <h3> 👱 Visitors count </h3>
@@ -77,7 +84,7 @@
 <div align="center">
 <img alt='' width="60%" src="https://github-readme-stats.vercel.app/api?username=PowerLevel9000&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true"><br>
 <img alt='' width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=PowerLevel9000&theme=nightowl&hide_border=false"><br>
-<img alt='' width="60%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=PowerLevel9000&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true">
+<img alt='' width="60%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=PowerLevel9000&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </div><hr>
 
 ### GitHub Activity
