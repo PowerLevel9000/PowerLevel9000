@@ -92,11 +92,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [shaaibu7/Budget-app](https://github.com/shaaibu7/Budget-app)
-2. ⭐ Starred [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-3. ⭐ Starred [LeslieAine/budget-app](https://github.com/LeslieAine/budget-app)
-4. ⭐ Starred [ShaliniNayan/Redux-basics](https://github.com/ShaliniNayan/Redux-basics)
-5. ⭐ Starred [otmaneechchafyky/Redux-tuto](https://github.com/otmaneechchafyky/Redux-tuto)
+1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/PowerLevel9000](https://github.com/PowerLevel9000/PowerLevel9000)
+2. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/PowerLevel9000](https://github.com/PowerLevel9000/PowerLevel9000)
+3. ⭐ Starred [shaaibu7/Budget-app](https://github.com/shaaibu7/Budget-app)
+4. ⭐ Starred [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+5. ⭐ Starred [LeslieAine/budget-app](https://github.com/LeslieAine/budget-app)
 <!--RECENT_ACTIVITY:end-->
 
 
