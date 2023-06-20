@@ -92,11 +92,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
-2. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/PowerLevel9000](https://github.com/PowerLevel9000/PowerLevel9000)
-3. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/PowerLevel9000](https://github.com/PowerLevel9000/PowerLevel9000)
-4. ⭐ Starred [shaaibu7/Budget-app](https://github.com/shaaibu7/Budget-app)
-5. ⭐ Starred [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+1. ⭐ Starred [ritikarawat220/Hello-Rails-app](https://github.com/ritikarawat220/Hello-Rails-app)
+2. ⭐ Starred [rica213/hello-rails-react](https://github.com/rica213/hello-rails-react)
+3. 🤝 Became collaborator on [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
+4. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/PowerLevel9000](https://github.com/PowerLevel9000/PowerLevel9000)
+5. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/PowerLevel9000](https://github.com/PowerLevel9000/PowerLevel9000)
 <!--RECENT_ACTIVITY:end-->
 
 
