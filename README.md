@@ -93,10 +93,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
-2. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
-3. ⬆️ Pushed 1 commit(s) to [adamilare/railsblog](https://github.com/adamilare/railsblog)
+2. ⬆️ Pushed 1 commit(s) to [adamilare/railsblog](https://github.com/adamilare/railsblog)
+3. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
 4. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
-5. ⭐ Starred [mertkantaroglu/Hello-World-Rails-React](https://github.com/mertkantaroglu/Hello-World-Rails-React)
+5. ⬆️ Pushed 1 commit(s) to [adamilare/railsblog](https://github.com/adamilare/railsblog)
 <!--RECENT_ACTIVITY:end-->
 
 
