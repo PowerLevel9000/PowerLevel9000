@@ -92,11 +92,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ritikarawat220/Hello-Rails-app](https://github.com/ritikarawat220/Hello-Rails-app)
-2. ⭐ Starred [rica213/hello-rails-react](https://github.com/rica213/hello-rails-react)
-3. 🤝 Became collaborator on [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
-4. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/PowerLevel9000](https://github.com/PowerLevel9000/PowerLevel9000)
-5. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/PowerLevel9000](https://github.com/PowerLevel9000/PowerLevel9000)
+1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
+2. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
+3. ⬆️ Pushed 1 commit(s) to [adamilare/railsblog](https://github.com/adamilare/railsblog)
+4. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
+5. ⭐ Starred [mertkantaroglu/Hello-World-Rails-React](https://github.com/mertkantaroglu/Hello-World-Rails-React)
 <!--RECENT_ACTIVITY:end-->
 
 
