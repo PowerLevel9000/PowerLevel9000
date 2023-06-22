@@ -93,10 +93,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
-2. 💪 Opened PR [#10](https://github.com/PowerLevel9000/Blog/pull/10) in [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
-3. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
-4. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
-5. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
+2. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
+3. ⬆️ Pushed 1 commit(s) to [adamilare/railsblog](https://github.com/adamilare/railsblog)
+4. ⬆️ Pushed 12 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
+5. 🎉 Merged PR [#10](https://github.com/PowerLevel9000/Blog/pull/10) in [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
 <!--RECENT_ACTIVITY:end-->
 
 
