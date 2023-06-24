@@ -92,11 +92,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [adamilare/railsblog](https://github.com/adamilare/railsblog)
-2. ⬆️ Pushed 5 commit(s) to [adamilare/railsblog](https://github.com/adamilare/railsblog)
-3. 🎉 Merged PR [#11](https://github.com/adamilare/railsblog/pull/11) in [adamilare/railsblog](https://github.com/adamilare/railsblog)
-4. ⬆️ Pushed 1 commit(s) to [adamilare/railsblog](https://github.com/adamilare/railsblog)
-5. 💪 Opened PR [#11](https://github.com/adamilare/railsblog/pull/11) in [adamilare/railsblog](https://github.com/adamilare/railsblog)
+1. ⬆️ Pushed 5 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
+2. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
+3. ⬆️ Pushed 1 commit(s) to [adamilare/railsblog](https://github.com/adamilare/railsblog)
+4. ⬆️ Pushed 5 commit(s) to [adamilare/railsblog](https://github.com/adamilare/railsblog)
+5. 🎉 Merged PR [#11](https://github.com/adamilare/railsblog/pull/11) in [adamilare/railsblog](https://github.com/adamilare/railsblog)
 <!--RECENT_ACTIVITY:end-->
 
 
