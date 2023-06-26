@@ -92,11 +92,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Stephen-Adom/recipe_app](https://github.com/Stephen-Adom/recipe_app)
-2. ✔️ Closed issue [#11](https://github.com/Stephen-Adom/recipe_app/issues/11) in [Stephen-Adom/recipe_app](https://github.com/Stephen-Adom/recipe_app)
-3. ❗️ Opened issue [#10](https://github.com/Stephen-Adom/recipe_app/issues/10) in [Stephen-Adom/recipe_app](https://github.com/Stephen-Adom/recipe_app)
-4. ✔️ Closed issue [#3](https://github.com/Stephen-Adom/recipe_app/issues/3) in [Stephen-Adom/recipe_app](https://github.com/Stephen-Adom/recipe_app)
-5. ❗️ Opened issue [#9](https://github.com/Stephen-Adom/recipe_app/issues/9) in [Stephen-Adom/recipe_app](https://github.com/Stephen-Adom/recipe_app)
+1. 💪 Opened PR [#12](https://github.com/Stephen-Adom/recipe_app/pull/12) in [Stephen-Adom/recipe_app](https://github.com/Stephen-Adom/recipe_app)
+2. ⬆️ Pushed 2 commit(s) to [Stephen-Adom/recipe_app](https://github.com/Stephen-Adom/recipe_app)
+3. ⬆️ Pushed 2 commit(s) to [Stephen-Adom/recipe_app](https://github.com/Stephen-Adom/recipe_app)
+4. ⬆️ Pushed 1 commit(s) to [Stephen-Adom/recipe_app](https://github.com/Stephen-Adom/recipe_app)
+5. ⬆️ Pushed 1 commit(s) to [Stephen-Adom/recipe_app](https://github.com/Stephen-Adom/recipe_app)
 <!--RECENT_ACTIVITY:end-->
 
 
