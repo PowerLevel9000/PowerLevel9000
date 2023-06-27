@@ -92,11 +92,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
-2. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
-3. 💪 Opened PR [#12](https://github.com/Stephen-Adom/recipe_app/pull/12) in [Stephen-Adom/recipe_app](https://github.com/Stephen-Adom/recipe_app)
-4. ⬆️ Pushed 2 commit(s) to [Stephen-Adom/recipe_app](https://github.com/Stephen-Adom/recipe_app)
-5. ⬆️ Pushed 2 commit(s) to [Stephen-Adom/recipe_app](https://github.com/Stephen-Adom/recipe_app)
+1. ⬆️ Pushed 1 commit(s) to [Stephen-Adom/recipe_app](https://github.com/Stephen-Adom/recipe_app)
+2. ✔️ Closed issue [#1](https://github.com/Stephen-Adom/recipe_app/issues/1) in [Stephen-Adom/recipe_app](https://github.com/Stephen-Adom/recipe_app)
+3. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
+4. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
+5. 💪 Opened PR [#12](https://github.com/Stephen-Adom/recipe_app/pull/12) in [Stephen-Adom/recipe_app](https://github.com/Stephen-Adom/recipe_app)
 <!--RECENT_ACTIVITY:end-->
 
 
