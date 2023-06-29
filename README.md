@@ -93,9 +93,9 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Stephen-Adom/recipe_app](https://github.com/Stephen-Adom/recipe_app)
-2. ⬆️ Pushed 1 commit(s) to [Stephen-Adom/recipe_app](https://github.com/Stephen-Adom/recipe_app)
+2. 💪 Opened PR [#17](https://github.com/Stephen-Adom/recipe_app/pull/17) in [Stephen-Adom/recipe_app](https://github.com/Stephen-Adom/recipe_app)
 3. ⬆️ Pushed 1 commit(s) to [Stephen-Adom/recipe_app](https://github.com/Stephen-Adom/recipe_app)
-4. ❗️ Opened issue [#72](https://github.com/rspec/rspec-metagem/issues/72) in [rspec/rspec-metagem](https://github.com/rspec/rspec-metagem)
+4. ⬆️ Pushed 1 commit(s) to [Stephen-Adom/recipe_app](https://github.com/Stephen-Adom/recipe_app)
 5. ⬆️ Pushed 1 commit(s) to [Stephen-Adom/recipe_app](https://github.com/Stephen-Adom/recipe_app)
 <!--RECENT_ACTIVITY:end-->
 
