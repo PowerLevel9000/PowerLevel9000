@@ -100,9 +100,7 @@
 <!--RECENT_ACTIVITY:end-->
 
 
-<div align="center">
-  <img alt='' src="https://github-readme-activity-graph.cyclic.app/graph?username=PowerLevel9000&theme=react" />
-</div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PowerLevel9000&theme=nightowl)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## ✍️ Random Dev Quote
 <div align="center">
