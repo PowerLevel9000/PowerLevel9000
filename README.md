@@ -92,11 +92,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [DilsherB/react-redux-api-project](https://github.com/DilsherB/react-redux-api-project)
-2. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/PowerLevel9000](https://github.com/PowerLevel9000/PowerLevel9000)
-3. ⭐ Starred [rica213/vr-world-front-end](https://github.com/rica213/vr-world-front-end)
-4. ⬆️ Pushed 68 commit(s) to [Stephen-Adom/recipe_app](https://github.com/Stephen-Adom/recipe_app)
-5. 🎉 Merged PR [#18](https://github.com/Stephen-Adom/recipe_app/pull/18) in [Stephen-Adom/recipe_app](https://github.com/Stephen-Adom/recipe_app)
+1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/PowerLevel9000](https://github.com/PowerLevel9000/PowerLevel9000)
+2. ⭐ Starred [DilsherB/react-redux-api-project](https://github.com/DilsherB/react-redux-api-project)
+3. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/PowerLevel9000](https://github.com/PowerLevel9000/PowerLevel9000)
+4. ⭐ Starred [rica213/vr-world-front-end](https://github.com/rica213/vr-world-front-end)
+5. ⬆️ Pushed 68 commit(s) to [Stephen-Adom/recipe_app](https://github.com/Stephen-Adom/recipe_app)
 <!--RECENT_ACTIVITY:end-->
 
 
