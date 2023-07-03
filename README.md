@@ -93,11 +93,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/PowerLevel9000](https://github.com/PowerLevel9000/PowerLevel9000)
-2. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Coder-Pay](https://github.com/PowerLevel9000/Coder-Pay)
-3. 📔 Created new repository [PowerLevel9000/Coder-Pay](https://github.com/PowerLevel9000/Coder-Pay)
-4. 📔 Created new repository [PowerLevel9000/template-readme](https://github.com/PowerLevel9000/template-readme)
-5. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
+1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Coder-Pay](https://github.com/PowerLevel9000/Coder-Pay)
+2. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/PowerLevel9000](https://github.com/PowerLevel9000/PowerLevel9000)
+3. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Coder-Pay](https://github.com/PowerLevel9000/Coder-Pay)
+4. 📔 Created new repository [PowerLevel9000/Coder-Pay](https://github.com/PowerLevel9000/Coder-Pay)
+5. 📔 Created new repository [PowerLevel9000/template-readme](https://github.com/PowerLevel9000/template-readme)
 <!--RECENT_ACTIVITY:end-->
 
 
