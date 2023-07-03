@@ -44,6 +44,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PowerLevel9002?t=AIuSN7mTxk5a_MWpLolEjA&s=09) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCG9gq2kcKFYx08NFii4oJAA)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%10034B7F1.svg?logo=WhatsApp&logoColor=white)](http://wa.me/917068731136)
+[![slack](https://img.shields.io/badge/Slack-%23E01E5A.svg?logo=Slack&logoColor=white)](https://microverse-students.slack.com/team/U04AWFHRUN5)
 
 # 💻 Tech Stack:
 ### 🧑‍💻 Languages
