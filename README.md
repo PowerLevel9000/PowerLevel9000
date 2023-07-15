@@ -93,11 +93,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#7](https://github.com/ernestmusong/Booking-app-frontend/pull/7#pullrequestreview-1531309254) in [ernestmusong/Booking-app-frontend](https://github.com/ernestmusong/Booking-app-frontend)
-2. ⬆️ Pushed 1 commit(s) to [ernestmusong/Booking-app-frontend](https://github.com/ernestmusong/Booking-app-frontend)
-3. ✔️ Closed issue [#12](https://github.com/enis-memic/booking_app_api/issues/12) in [enis-memic/booking_app_api](https://github.com/enis-memic/booking_app_api)
-4. ⬆️ Pushed 9 commit(s) to [ernestmusong/Booking-app-frontend](https://github.com/ernestmusong/Booking-app-frontend)
-5. 🎉 Merged PR [#6](https://github.com/ernestmusong/Booking-app-frontend/pull/6) in [ernestmusong/Booking-app-frontend](https://github.com/ernestmusong/Booking-app-frontend)
+1. 📔 Created new repository [PowerLevel9000/react-rails-backend](https://github.com/PowerLevel9000/react-rails-backend)
+2. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/hello-rails-react](https://github.com/PowerLevel9000/hello-rails-react)
+3. 👍 Approved [#7](https://github.com/ernestmusong/Booking-app-frontend/pull/7#pullrequestreview-1531309254) in [ernestmusong/Booking-app-frontend](https://github.com/ernestmusong/Booking-app-frontend)
+4. ⬆️ Pushed 1 commit(s) to [ernestmusong/Booking-app-frontend](https://github.com/ernestmusong/Booking-app-frontend)
+5. ✔️ Closed issue [#12](https://github.com/enis-memic/booking_app_api/issues/12) in [enis-memic/booking_app_api](https://github.com/enis-memic/booking_app_api)
 <!--RECENT_ACTIVITY:end-->
 
 
