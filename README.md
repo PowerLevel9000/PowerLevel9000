@@ -93,11 +93,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/hello-rails-react](https://github.com/PowerLevel9000/hello-rails-react)
+1. 💪 Opened PR [#9](https://github.com/ernestmusong/Booking-app-frontend/pull/9) in [ernestmusong/Booking-app-frontend](https://github.com/ernestmusong/Booking-app-frontend)
 2. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/hello-rails-react](https://github.com/PowerLevel9000/hello-rails-react)
-3. 📔 Created new repository [PowerLevel9000/react-rails-frontend](https://github.com/PowerLevel9000/react-rails-frontend)
-4. 📔 Created new repository [PowerLevel9000/react-rails-backend](https://github.com/PowerLevel9000/react-rails-backend)
-5. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/hello-rails-react](https://github.com/PowerLevel9000/hello-rails-react)
+3. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/hello-rails-react](https://github.com/PowerLevel9000/hello-rails-react)
+4. 📔 Created new repository [PowerLevel9000/react-rails-frontend](https://github.com/PowerLevel9000/react-rails-frontend)
+5. 📔 Created new repository [PowerLevel9000/react-rails-backend](https://github.com/PowerLevel9000/react-rails-backend)
 <!--RECENT_ACTIVITY:end-->
 
 
