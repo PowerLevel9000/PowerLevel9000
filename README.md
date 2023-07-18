@@ -93,11 +93,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 8 commit(s) to [PowerLevel9000/hello-rails-react](https://github.com/PowerLevel9000/hello-rails-react)
-2. 🎉 Merged PR [#1](https://github.com/PowerLevel9000/hello-rails-react/pull/1) in [PowerLevel9000/hello-rails-react](https://github.com/PowerLevel9000/hello-rails-react)
-3. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/react-rails-backend](https://github.com/PowerLevel9000/react-rails-backend)
-4. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/react-rails-backend](https://github.com/PowerLevel9000/react-rails-backend)
-5. 💪 Opened PR [#1](https://github.com/PowerLevel9000/react-rails-backend/pull/1) in [PowerLevel9000/react-rails-backend](https://github.com/PowerLevel9000/react-rails-backend)
+1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/react-rails-frontend](https://github.com/PowerLevel9000/react-rails-frontend)
+2. 💪 Opened PR [#1](https://github.com/PowerLevel9000/react-rails-frontend/pull/1) in [PowerLevel9000/react-rails-frontend](https://github.com/PowerLevel9000/react-rails-frontend)
+3. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/react-rails-frontend](https://github.com/PowerLevel9000/react-rails-frontend)
+4. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/react-rails-frontend](https://github.com/PowerLevel9000/react-rails-frontend)
+5. ⬆️ Pushed 2 commit(s) to [PowerLevel9000/react-rails-backend](https://github.com/PowerLevel9000/react-rails-backend)
 <!--RECENT_ACTIVITY:end-->
 
 
