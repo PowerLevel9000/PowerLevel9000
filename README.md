@@ -93,11 +93,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#12](https://github.com/ernestmusong/Booking-app-frontend/pull/12) in [ernestmusong/Booking-app-frontend](https://github.com/ernestmusong/Booking-app-frontend)
-2. ✔️ Closed issue [#30](https://github.com/enis-memic/booking_app_api/issues/30) in [enis-memic/booking_app_api](https://github.com/enis-memic/booking_app_api)
-3. ⬆️ Pushed 1 commit(s) to [ernestmusong/Booking-app-frontend](https://github.com/ernestmusong/Booking-app-frontend)
-4. ⬆️ Pushed 5 commit(s) to [ernestmusong/Booking-app-frontend](https://github.com/ernestmusong/Booking-app-frontend)
-5. 👍 Approved [#11](https://github.com/ernestmusong/Booking-app-frontend/pull/11#pullrequestreview-1534348357) in [ernestmusong/Booking-app-frontend](https://github.com/ernestmusong/Booking-app-frontend)
+1. ⬆️ Pushed 1 commit(s) to [ernestmusong/Booking-app-frontend](https://github.com/ernestmusong/Booking-app-frontend)
+2. 💪 Opened PR [#12](https://github.com/ernestmusong/Booking-app-frontend/pull/12) in [ernestmusong/Booking-app-frontend](https://github.com/ernestmusong/Booking-app-frontend)
+3. ✔️ Closed issue [#30](https://github.com/enis-memic/booking_app_api/issues/30) in [enis-memic/booking_app_api](https://github.com/enis-memic/booking_app_api)
+4. ⬆️ Pushed 1 commit(s) to [ernestmusong/Booking-app-frontend](https://github.com/ernestmusong/Booking-app-frontend)
+5. ⬆️ Pushed 5 commit(s) to [ernestmusong/Booking-app-frontend](https://github.com/ernestmusong/Booking-app-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 
