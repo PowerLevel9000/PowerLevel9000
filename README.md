@@ -87,11 +87,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ernestmusong/Booking-app-frontend](https://github.com/ernestmusong/Booking-app-frontend)
+1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/PowerLevel9000](https://github.com/PowerLevel9000/PowerLevel9000)
 2. ⬆️ Pushed 1 commit(s) to [ernestmusong/Booking-app-frontend](https://github.com/ernestmusong/Booking-app-frontend)
 3. ⬆️ Pushed 1 commit(s) to [ernestmusong/Booking-app-frontend](https://github.com/ernestmusong/Booking-app-frontend)
-4. 💪 Opened PR [#12](https://github.com/ernestmusong/Booking-app-frontend/pull/12) in [ernestmusong/Booking-app-frontend](https://github.com/ernestmusong/Booking-app-frontend)
-5. ✔️ Closed issue [#30](https://github.com/enis-memic/booking_app_api/issues/30) in [enis-memic/booking_app_api](https://github.com/enis-memic/booking_app_api)
+4. ⬆️ Pushed 1 commit(s) to [ernestmusong/Booking-app-frontend](https://github.com/ernestmusong/Booking-app-frontend)
+5. 💪 Opened PR [#12](https://github.com/ernestmusong/Booking-app-frontend/pull/12) in [ernestmusong/Booking-app-frontend](https://github.com/ernestmusong/Booking-app-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 
