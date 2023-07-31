@@ -87,11 +87,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#2](https://github.com/ernestmusong/Booking-app-frontend/issues/2) in [ernestmusong/Booking-app-frontend](https://github.com/ernestmusong/Booking-app-frontend)
-2. ⬆️ Pushed 6 commit(s) to [PowerLevel9000/react-rails-frontend](https://github.com/PowerLevel9000/react-rails-frontend)
-3. 🎉 Merged PR [#1](https://github.com/PowerLevel9000/react-rails-frontend/pull/1) in [PowerLevel9000/react-rails-frontend](https://github.com/PowerLevel9000/react-rails-frontend)
-4. ⬆️ Pushed 95 commit(s) to [ernestmusong/Booking-app-frontend](https://github.com/ernestmusong/Booking-app-frontend)
-5. 🎉 Merged PR [#15](https://github.com/ernestmusong/Booking-app-frontend/pull/15) in [ernestmusong/Booking-app-frontend](https://github.com/ernestmusong/Booking-app-frontend)
+1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/PowerLevel9000](https://github.com/PowerLevel9000/PowerLevel9000)
+2. ✔️ Closed issue [#2](https://github.com/ernestmusong/Booking-app-frontend/issues/2) in [ernestmusong/Booking-app-frontend](https://github.com/ernestmusong/Booking-app-frontend)
+3. ⬆️ Pushed 6 commit(s) to [PowerLevel9000/react-rails-frontend](https://github.com/PowerLevel9000/react-rails-frontend)
+4. 🎉 Merged PR [#1](https://github.com/PowerLevel9000/react-rails-frontend/pull/1) in [PowerLevel9000/react-rails-frontend](https://github.com/PowerLevel9000/react-rails-frontend)
+5. ⬆️ Pushed 95 commit(s) to [ernestmusong/Booking-app-frontend](https://github.com/ernestmusong/Booking-app-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 
