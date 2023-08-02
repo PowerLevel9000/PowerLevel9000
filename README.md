@@ -87,10 +87,10 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 4 commit(s) to [PowerLevel9000/3d-Animation](https://github.com/PowerLevel9000/3d-Animation)
-2. 🎉 Merged PR [#1](https://github.com/PowerLevel9000/3d-Animation/pull/1) in [PowerLevel9000/3d-Animation](https://github.com/PowerLevel9000/3d-Animation)
-3. 💪 Opened PR [#1](https://github.com/PowerLevel9000/3d-Animation/pull/1) in [PowerLevel9000/3d-Animation](https://github.com/PowerLevel9000/3d-Animation)
-4. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/3d-Animation](https://github.com/PowerLevel9000/3d-Animation)
+1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/3d-Animation](https://github.com/PowerLevel9000/3d-Animation)
+2. ⬆️ Pushed 4 commit(s) to [PowerLevel9000/3d-Animation](https://github.com/PowerLevel9000/3d-Animation)
+3. 🎉 Merged PR [#1](https://github.com/PowerLevel9000/3d-Animation/pull/1) in [PowerLevel9000/3d-Animation](https://github.com/PowerLevel9000/3d-Animation)
+4. 💪 Opened PR [#1](https://github.com/PowerLevel9000/3d-Animation/pull/1) in [PowerLevel9000/3d-Animation](https://github.com/PowerLevel9000/3d-Animation)
 5. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/3d-Animation](https://github.com/PowerLevel9000/3d-Animation)
 <!--RECENT_ACTIVITY:end-->
 
