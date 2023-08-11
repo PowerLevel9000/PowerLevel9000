@@ -87,11 +87,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [PowerLevel9000/3d-Animation](https://github.com/PowerLevel9000/3d-Animation)
-2. 🎉 Merged PR [#2](https://github.com/PowerLevel9000/3d-Animation/pull/2) in [PowerLevel9000/3d-Animation](https://github.com/PowerLevel9000/3d-Animation)
-3. 💪 Opened PR [#2](https://github.com/PowerLevel9000/3d-Animation/pull/2) in [PowerLevel9000/3d-Animation](https://github.com/PowerLevel9000/3d-Animation)
-4. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/3d-Animation](https://github.com/PowerLevel9000/3d-Animation)
-5. ⬆️ Pushed 4 commit(s) to [PowerLevel9000/3d-Animation](https://github.com/PowerLevel9000/3d-Animation)
+1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
+2. ⬆️ Pushed 17 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
+3. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
+4. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
+5. ⬆️ Pushed 2 commit(s) to [PowerLevel9000/3d-Animation](https://github.com/PowerLevel9000/3d-Animation)
 <!--RECENT_ACTIVITY:end-->
 
 
