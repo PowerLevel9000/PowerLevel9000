@@ -87,11 +87,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#16](https://github.com/PowerLevel9000/full-stack-portfolio/pull/16) in [PowerLevel9000/full-stack-portfolio](https://github.com/PowerLevel9000/full-stack-portfolio)
-2. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/full-stack-portfolio](https://github.com/PowerLevel9000/full-stack-portfolio)
-3. ⬆️ Pushed 2 commit(s) to [PowerLevel9000/full-stack-portfolio](https://github.com/PowerLevel9000/full-stack-portfolio)
-4. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/full-stack-portfolio](https://github.com/PowerLevel9000/full-stack-portfolio)
-5. ⬆️ Pushed 3 commit(s) to [PowerLevel9000/full-stack-portfolio](https://github.com/PowerLevel9000/full-stack-portfolio)
+1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/full-stack-portfolio](https://github.com/PowerLevel9000/full-stack-portfolio)
+2. 💪 Opened PR [#16](https://github.com/PowerLevel9000/full-stack-portfolio/pull/16) in [PowerLevel9000/full-stack-portfolio](https://github.com/PowerLevel9000/full-stack-portfolio)
+3. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/full-stack-portfolio](https://github.com/PowerLevel9000/full-stack-portfolio)
+4. ⬆️ Pushed 2 commit(s) to [PowerLevel9000/full-stack-portfolio](https://github.com/PowerLevel9000/full-stack-portfolio)
+5. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/full-stack-portfolio](https://github.com/PowerLevel9000/full-stack-portfolio)
 <!--RECENT_ACTIVITY:end-->
 
 
