@@ -87,11 +87,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/dsa-presentation](https://github.com/PowerLevel9000/dsa-presentation)
+1. ⭐ Starred [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions)
 2. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/dsa-presentation](https://github.com/PowerLevel9000/dsa-presentation)
-3. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/full-stack-portfolio](https://github.com/PowerLevel9000/full-stack-portfolio)
-4. 🎉 Merged PR [#16](https://github.com/PowerLevel9000/full-stack-portfolio/pull/16) in [PowerLevel9000/full-stack-portfolio](https://github.com/PowerLevel9000/full-stack-portfolio)
-5. ⬆️ Pushed 58 commit(s) to [PowerLevel9000/full-stack-portfolio](https://github.com/PowerLevel9000/full-stack-portfolio)
+3. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/dsa-presentation](https://github.com/PowerLevel9000/dsa-presentation)
+4. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/dsa-presentation](https://github.com/PowerLevel9000/dsa-presentation)
+5. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/full-stack-portfolio](https://github.com/PowerLevel9000/full-stack-portfolio)
 <!--RECENT_ACTIVITY:end-->
 
 
