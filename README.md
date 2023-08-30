@@ -87,11 +87,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions)
+1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/PowerLevel9000](https://github.com/PowerLevel9000/PowerLevel9000)
 2. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/dsa-presentation](https://github.com/PowerLevel9000/dsa-presentation)
 3. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/dsa-presentation](https://github.com/PowerLevel9000/dsa-presentation)
-4. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/dsa-presentation](https://github.com/PowerLevel9000/dsa-presentation)
-5. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/full-stack-portfolio](https://github.com/PowerLevel9000/full-stack-portfolio)
+4. ⭐ Starred [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions)
+5. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/dsa-presentation](https://github.com/PowerLevel9000/dsa-presentation)
 <!--RECENT_ACTIVITY:end-->
 
 
