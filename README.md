@@ -24,7 +24,7 @@
 # 💫 About Me:
 🔭 I’m currently working on microverse projects<br><br>
 🌱 I’m currently learning full stack<br><br>
-👨‍💻 All of my projects are available at <a href="https://powerlevel9000.github.io/portfolio-project/">Personal Portfolio</a><br><br>
+👨‍💻 All of my projects are available at <a href="https://adarsh-powerlevel9000.netlify.app/">Personal Portfolio</a><br><br>
 💬 Ask me about video games<br><br>
 📫 How to reach me <a href="mailto:adi8090808766@gmail.com">mail me</a><br><br>
 🌐 Do check my <a href='https://www.hackerrank.com/adi8090808766'>Hacker-Rank</a> and <a href='https://www.freecodecamp.org/fcc8df47529-8247-491e-ba8d-15799509376f'>FreeCodeCamp</a> profile<br><br>
