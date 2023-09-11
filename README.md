@@ -87,11 +87,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/share-api](https://github.com/PowerLevel9000/share-api)
-2. 📔 Created new repository [PowerLevel9000/share-api](https://github.com/PowerLevel9000/share-api)
-3. ⭐ Starred [krahets/hello-algo](https://github.com/krahets/hello-algo)
-4. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/dsa-presentation](https://github.com/PowerLevel9000/dsa-presentation)
-5. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/dsa-presentation](https://github.com/PowerLevel9000/dsa-presentation)
+1. ⭐ Starred [HanaSabih/python-FCS-assignment3](https://github.com/HanaSabih/python-FCS-assignment3)
+2. ⭐ Starred [shaaibu7/Expense-App-API](https://github.com/shaaibu7/Expense-App-API)
+3. ⭐ Starred [kazaneza/food-delivery](https://github.com/kazaneza/food-delivery)
+4. ⭐ Starred [DilsherB/ror-budget-maker](https://github.com/DilsherB/ror-budget-maker)
+5. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/share-api](https://github.com/PowerLevel9000/share-api)
 <!--RECENT_ACTIVITY:end-->
 
 
