@@ -87,11 +87,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gitdagray/next-js-course](https://github.com/gitdagray/next-js-course)
-2. ⭐ Starred [HanaSabih/python-FCS-assignment3](https://github.com/HanaSabih/python-FCS-assignment3)
-3. ⭐ Starred [shaaibu7/Expense-App-API](https://github.com/shaaibu7/Expense-App-API)
-4. ⭐ Starred [kazaneza/food-delivery](https://github.com/kazaneza/food-delivery)
-5. ⭐ Starred [DilsherB/ror-budget-maker](https://github.com/DilsherB/ror-budget-maker)
+1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/nextjs-project](https://github.com/PowerLevel9000/nextjs-project)
+2. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/nextjs-project](https://github.com/PowerLevel9000/nextjs-project)
+3. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/nextjs-project](https://github.com/PowerLevel9000/nextjs-project)
+4. 📔 Created new repository [PowerLevel9000/nextjs-project](https://github.com/PowerLevel9000/nextjs-project)
+5. ⭐ Starred [gitdagray/next-js-course](https://github.com/gitdagray/next-js-course)
 <!--RECENT_ACTIVITY:end-->
 
 
