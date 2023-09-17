@@ -87,11 +87,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/nextjs-project](https://github.com/PowerLevel9000/nextjs-project)
+1. ⬆️ Pushed 3 commit(s) to [PowerLevel9000/nextjs-project](https://github.com/PowerLevel9000/nextjs-project)
 2. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/nextjs-project](https://github.com/PowerLevel9000/nextjs-project)
 3. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/nextjs-project](https://github.com/PowerLevel9000/nextjs-project)
-4. 📔 Created new repository [PowerLevel9000/nextjs-project](https://github.com/PowerLevel9000/nextjs-project)
-5. ⭐ Starred [gitdagray/next-js-course](https://github.com/gitdagray/next-js-course)
+4. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/nextjs-project](https://github.com/PowerLevel9000/nextjs-project)
+5. 📔 Created new repository [PowerLevel9000/nextjs-project](https://github.com/PowerLevel9000/nextjs-project)
 <!--RECENT_ACTIVITY:end-->
 
 
