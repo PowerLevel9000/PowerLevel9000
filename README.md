@@ -91,7 +91,7 @@
 2. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/insynk-frontend-interview-assignment](https://github.com/PowerLevel9000/insynk-frontend-interview-assignment)
 3. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/insynk-frontend-interview-assignment](https://github.com/PowerLevel9000/insynk-frontend-interview-assignment)
 4. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/insynk-frontend-interview-assignment](https://github.com/PowerLevel9000/insynk-frontend-interview-assignment)
-5. 🔱 Forked [PowerLevel9000/insynk-frontend-interview-assignment](https://github.com/PowerLevel9000/insynk-frontend-interview-assignment) from [InSynk-Studios/insynk-frontend-interview-assignment](https://github.com/InSynk-Studios/insynk-frontend-interview-assignment)
+5. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/insynk-frontend-interview-assignment](https://github.com/PowerLevel9000/insynk-frontend-interview-assignment)
 <!--RECENT_ACTIVITY:end-->
 
 
