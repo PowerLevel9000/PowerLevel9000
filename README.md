@@ -87,11 +87,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Coder-Pay](https://github.com/PowerLevel9000/Coder-Pay)
-2. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/demo](https://github.com/PowerLevel9000/demo)
-3. ⬆️ Pushed 3 commit(s) to [PowerLevel9000/demo](https://github.com/PowerLevel9000/demo)
-4. 📔 Created new repository [PowerLevel9000/demo](https://github.com/PowerLevel9000/demo)
-5. ⬆️ Pushed 3 commit(s) to [PowerLevel9000/nextjs-project](https://github.com/PowerLevel9000/nextjs-project)
+1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/insynk-frontend-interview-assignment](https://github.com/PowerLevel9000/insynk-frontend-interview-assignment)
+2. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/insynk-frontend-interview-assignment](https://github.com/PowerLevel9000/insynk-frontend-interview-assignment)
+3. 🔱 Forked [PowerLevel9000/insynk-frontend-interview-assignment](https://github.com/PowerLevel9000/insynk-frontend-interview-assignment) from [InSynk-Studios/insynk-frontend-interview-assignment](https://github.com/InSynk-Studios/insynk-frontend-interview-assignment)
+4. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Coder-Pay](https://github.com/PowerLevel9000/Coder-Pay)
+5. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/demo](https://github.com/PowerLevel9000/demo)
 <!--RECENT_ACTIVITY:end-->
 
 
