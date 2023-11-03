@@ -87,11 +87,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)
-2. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/dsa-presentation](https://github.com/PowerLevel9000/dsa-presentation)
-3. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/insynk-frontend-interview-assignment](https://github.com/PowerLevel9000/insynk-frontend-interview-assignment)
-4. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/insynk-frontend-interview-assignment](https://github.com/PowerLevel9000/insynk-frontend-interview-assignment)
-5. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/insynk-frontend-interview-assignment](https://github.com/PowerLevel9000/insynk-frontend-interview-assignment)
+1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/nextjs-dashboard](https://github.com/PowerLevel9000/nextjs-dashboard)
+2. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/nextjs-dashboard](https://github.com/PowerLevel9000/nextjs-dashboard)
+3. 📔 Created new repository [PowerLevel9000/nextjs-dashboard](https://github.com/PowerLevel9000/nextjs-dashboard)
+4. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)
+5. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/dsa-presentation](https://github.com/PowerLevel9000/dsa-presentation)
 <!--RECENT_ACTIVITY:end-->
 
 
