@@ -89,9 +89,9 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/nextjs-dashboard](https://github.com/PowerLevel9000/nextjs-dashboard)
 2. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/nextjs-dashboard](https://github.com/PowerLevel9000/nextjs-dashboard)
-3. 📔 Created new repository [PowerLevel9000/nextjs-dashboard](https://github.com/PowerLevel9000/nextjs-dashboard)
-4. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)
-5. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/dsa-presentation](https://github.com/PowerLevel9000/dsa-presentation)
+3. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/nextjs-dashboard](https://github.com/PowerLevel9000/nextjs-dashboard)
+4. 📔 Created new repository [PowerLevel9000/nextjs-dashboard](https://github.com/PowerLevel9000/nextjs-dashboard)
+5. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)
 <!--RECENT_ACTIVITY:end-->
 
 
