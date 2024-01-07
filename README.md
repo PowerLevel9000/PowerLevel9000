@@ -88,10 +88,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/dsa-presentation](https://github.com/PowerLevel9000/dsa-presentation)
-2. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
+2. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/dsa-presentation](https://github.com/PowerLevel9000/dsa-presentation)
 3. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
 4. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
-5. ⬆️ Pushed 8 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
+5. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
 <!--RECENT_ACTIVITY:end-->
 
 
