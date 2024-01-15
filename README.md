@@ -87,9 +87,9 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
+1. ⭐ Starred [DakotaLMartinez/rails-devise-jwt-tutorial](https://github.com/DakotaLMartinez/rails-devise-jwt-tutorial)
 2. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
-3. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/dsa-presentation](https://github.com/PowerLevel9000/dsa-presentation)
+3. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
 4. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/dsa-presentation](https://github.com/PowerLevel9000/dsa-presentation)
 5. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/dsa-presentation](https://github.com/PowerLevel9000/dsa-presentation)
 <!--RECENT_ACTIVITY:end-->
