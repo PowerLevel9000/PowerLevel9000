@@ -87,11 +87,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kwchang0831/svelte-QWER](https://github.com/kwchang0831/svelte-QWER)
-2. ⭐ Starred [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)
-3. ⭐ Starred [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-4. ⭐ Starred [DakotaLMartinez/rails-devise-jwt-tutorial](https://github.com/DakotaLMartinez/rails-devise-jwt-tutorial)
-5. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/Blog](https://github.com/PowerLevel9000/Blog)
+1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/PowerLevel9000](https://github.com/PowerLevel9000/PowerLevel9000)
+2. ⭐ Starred [kwchang0831/svelte-QWER](https://github.com/kwchang0831/svelte-QWER)
+3. ⭐ Starred [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)
+4. ⭐ Starred [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+5. ⭐ Starred [DakotaLMartinez/rails-devise-jwt-tutorial](https://github.com/DakotaLMartinez/rails-devise-jwt-tutorial)
 <!--RECENT_ACTIVITY:end-->
 
 
