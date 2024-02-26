@@ -87,11 +87,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [PowerLevel9000/Rapid](https://github.com/PowerLevel9000/Rapid) from [facebook/Rapid](https://github.com/facebook/Rapid)
-2. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/PowerLevel9000](https://github.com/PowerLevel9000/PowerLevel9000)
-3. ⭐ Starred [kwchang0831/svelte-QWER](https://github.com/kwchang0831/svelte-QWER)
-4. ⭐ Starred [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)
-5. ⭐ Starred [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+1. ⬆️ Pushed 1 commit(s) to [ernestmusong/Booking-app-frontend](https://github.com/ernestmusong/Booking-app-frontend)
+2. ❗️ Opened issue [#16](https://github.com/ernestmusong/Booking-app-frontend/issues/16) in [ernestmusong/Booking-app-frontend](https://github.com/ernestmusong/Booking-app-frontend)
+3. ❗️ Opened issue [#36](https://github.com/enis-memic/booking_app_api/issues/36) in [enis-memic/booking_app_api](https://github.com/enis-memic/booking_app_api)
+4. ⬆️ Pushed 1 commit(s) to [enis-memic/booking_app_api](https://github.com/enis-memic/booking_app_api)
+5. ⬆️ Pushed 1 commit(s) to [ernestmusong/Booking-app-frontend](https://github.com/ernestmusong/Booking-app-frontend)
 <!--RECENT_ACTIVITY:end-->
 
 
