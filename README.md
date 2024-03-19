@@ -88,10 +88,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 2 commit(s) to [PowerLevel9000/pokemon-dashboard-plus](https://github.com/PowerLevel9000/pokemon-dashboard-plus)
-2. ⬆️ Pushed 1 commit(s) to [ernestmusong/Booking-app-frontend](https://github.com/ernestmusong/Booking-app-frontend)
-3. ❗️ Opened issue [#16](https://github.com/ernestmusong/Booking-app-frontend/issues/16) in [ernestmusong/Booking-app-frontend](https://github.com/ernestmusong/Booking-app-frontend)
-4. ❗️ Opened issue [#36](https://github.com/enis-memic/booking_app_api/issues/36) in [enis-memic/booking_app_api](https://github.com/enis-memic/booking_app_api)
-5. ⬆️ Pushed 1 commit(s) to [enis-memic/booking_app_api](https://github.com/enis-memic/booking_app_api)
+2. 🎉 Merged PR [#4](https://github.com/PowerLevel9000/pokemon-dashboard-plus/pull/4) in [PowerLevel9000/pokemon-dashboard-plus](https://github.com/PowerLevel9000/pokemon-dashboard-plus)
+3. 💪 Opened PR [#4](https://github.com/PowerLevel9000/pokemon-dashboard-plus/pull/4) in [PowerLevel9000/pokemon-dashboard-plus](https://github.com/PowerLevel9000/pokemon-dashboard-plus)
+4. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/pokemon-dashboard-plus](https://github.com/PowerLevel9000/pokemon-dashboard-plus)
+5. 🎉 Merged PR [#3](https://github.com/PowerLevel9000/pokemon-dashboard-plus/pull/3) in [PowerLevel9000/pokemon-dashboard-plus](https://github.com/PowerLevel9000/pokemon-dashboard-plus)
 <!--RECENT_ACTIVITY:end-->
 
 
