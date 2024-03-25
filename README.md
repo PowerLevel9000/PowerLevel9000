@@ -88,10 +88,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/pokemon-dashboard-plus](https://github.com/PowerLevel9000/pokemon-dashboard-plus)
-2. ⬆️ Pushed 2 commit(s) to [PowerLevel9000/pokemon-dashboard-plus](https://github.com/PowerLevel9000/pokemon-dashboard-plus)
-3. 🎉 Merged PR [#4](https://github.com/PowerLevel9000/pokemon-dashboard-plus/pull/4) in [PowerLevel9000/pokemon-dashboard-plus](https://github.com/PowerLevel9000/pokemon-dashboard-plus)
-4. 💪 Opened PR [#4](https://github.com/PowerLevel9000/pokemon-dashboard-plus/pull/4) in [PowerLevel9000/pokemon-dashboard-plus](https://github.com/PowerLevel9000/pokemon-dashboard-plus)
-5. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/pokemon-dashboard-plus](https://github.com/PowerLevel9000/pokemon-dashboard-plus)
+2. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/pokemon-dashboard-plus](https://github.com/PowerLevel9000/pokemon-dashboard-plus)
+3. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/pokemon-dashboard-plus](https://github.com/PowerLevel9000/pokemon-dashboard-plus)
+4. ⬆️ Pushed 2 commit(s) to [PowerLevel9000/pokemon-dashboard-plus](https://github.com/PowerLevel9000/pokemon-dashboard-plus)
+5. 🎉 Merged PR [#4](https://github.com/PowerLevel9000/pokemon-dashboard-plus/pull/4) in [PowerLevel9000/pokemon-dashboard-plus](https://github.com/PowerLevel9000/pokemon-dashboard-plus)
 <!--RECENT_ACTIVITY:end-->
 
 
