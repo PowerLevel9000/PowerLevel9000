@@ -87,11 +87,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/pokemon-dashboard-plus](https://github.com/PowerLevel9000/pokemon-dashboard-plus)
+1. ❗️ Opened issue [#1058](https://github.com/PokeAPI/pokeapi/issues/1058) in [PokeAPI/pokeapi](https://github.com/PokeAPI/pokeapi)
 2. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/pokemon-dashboard-plus](https://github.com/PowerLevel9000/pokemon-dashboard-plus)
 3. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/pokemon-dashboard-plus](https://github.com/PowerLevel9000/pokemon-dashboard-plus)
-4. ⬆️ Pushed 2 commit(s) to [PowerLevel9000/pokemon-dashboard-plus](https://github.com/PowerLevel9000/pokemon-dashboard-plus)
-5. 🎉 Merged PR [#4](https://github.com/PowerLevel9000/pokemon-dashboard-plus/pull/4) in [PowerLevel9000/pokemon-dashboard-plus](https://github.com/PowerLevel9000/pokemon-dashboard-plus)
+4. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/pokemon-dashboard-plus](https://github.com/PowerLevel9000/pokemon-dashboard-plus)
+5. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/pokemon-dashboard-plus](https://github.com/PowerLevel9000/pokemon-dashboard-plus)
 <!--RECENT_ACTIVITY:end-->
 
 
