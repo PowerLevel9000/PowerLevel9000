@@ -87,11 +87,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-2. ⬆️ Pushed 4 commit(s) to [PowerLevel9000/carbon-cell-takeaway](https://github.com/PowerLevel9000/carbon-cell-takeaway)
-3. 🎉 Merged PR [#2](https://github.com/PowerLevel9000/carbon-cell-takeaway/pull/2) in [PowerLevel9000/carbon-cell-takeaway](https://github.com/PowerLevel9000/carbon-cell-takeaway)
-4. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/carbon-cell-takeaway](https://github.com/PowerLevel9000/carbon-cell-takeaway)
-5. 💪 Opened PR [#2](https://github.com/PowerLevel9000/carbon-cell-takeaway/pull/2) in [PowerLevel9000/carbon-cell-takeaway](https://github.com/PowerLevel9000/carbon-cell-takeaway)
+1. ⭐ Starred [reduxjs/redux-templates](https://github.com/reduxjs/redux-templates)
+2. ⭐ Starred [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+3. ⬆️ Pushed 4 commit(s) to [PowerLevel9000/carbon-cell-takeaway](https://github.com/PowerLevel9000/carbon-cell-takeaway)
+4. 🎉 Merged PR [#2](https://github.com/PowerLevel9000/carbon-cell-takeaway/pull/2) in [PowerLevel9000/carbon-cell-takeaway](https://github.com/PowerLevel9000/carbon-cell-takeaway)
+5. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/carbon-cell-takeaway](https://github.com/PowerLevel9000/carbon-cell-takeaway)
 <!--RECENT_ACTIVITY:end-->
 
 
