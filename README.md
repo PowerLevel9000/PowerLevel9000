@@ -87,11 +87,11 @@
 <!-- Last activity: https://github.com/Readme-Workflows/recent-activity -->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [reduxjs/redux-templates](https://github.com/reduxjs/redux-templates)
-2. ⭐ Starred [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-3. ⬆️ Pushed 4 commit(s) to [PowerLevel9000/carbon-cell-takeaway](https://github.com/PowerLevel9000/carbon-cell-takeaway)
-4. 🎉 Merged PR [#2](https://github.com/PowerLevel9000/carbon-cell-takeaway/pull/2) in [PowerLevel9000/carbon-cell-takeaway](https://github.com/PowerLevel9000/carbon-cell-takeaway)
-5. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/carbon-cell-takeaway](https://github.com/PowerLevel9000/carbon-cell-takeaway)
+1. ⬆️ Pushed 3 commit(s) to [PowerLevel9000/thinkify-labs-takeaway](https://github.com/PowerLevel9000/thinkify-labs-takeaway)
+2. 🎉 Merged PR [#5](https://github.com/PowerLevel9000/thinkify-labs-takeaway/pull/5) in [PowerLevel9000/thinkify-labs-takeaway](https://github.com/PowerLevel9000/thinkify-labs-takeaway)
+3. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/thinkify-labs-takeaway](https://github.com/PowerLevel9000/thinkify-labs-takeaway)
+4. 💪 Opened PR [#5](https://github.com/PowerLevel9000/thinkify-labs-takeaway/pull/5) in [PowerLevel9000/thinkify-labs-takeaway](https://github.com/PowerLevel9000/thinkify-labs-takeaway)
+5. ⬆️ Pushed 1 commit(s) to [PowerLevel9000/thinkify-labs-takeaway](https://github.com/PowerLevel9000/thinkify-labs-takeaway)
 <!--RECENT_ACTIVITY:end-->
 
 
